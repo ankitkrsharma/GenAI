@@ -1,0 +1,4 @@
+📊 Test Report
+
+This is a test report to ensure writing to file works properly.
+Includes: 📈, 📉, 📋 emojis to check UTF-8 compatibility.

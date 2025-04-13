@@ -1,0 +1,32 @@
+# === Core Python Utilities ===
+python-dotenv~=1.1.0
+loguru
+pydantic
+
+# === LLM & Agent Management ===
+crewai~=0.114.0
+langchain
+google-generativeai
+google
+
+# === Vector Database (optional) ===
+chromadb
+pinecone-client
+
+# === Frontend Interface ===
+streamlit~=1.44.1
+
+# === Database ===
+mysql-connector-python~=9.2.0
+sqlalchemy
+
+# === Data Processing (optional but useful) ===
+pandas
+requests
+
+# === Dev Tools (optional) ===
+# uvicorn
+# fastapi
+
+protobuf~=5.29.4
+pydantic-settings~=2.8.1

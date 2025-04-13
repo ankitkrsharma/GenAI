@@ -1,0 +1,16 @@
+{
+  "date": "2025-04-10",
+  "headlines": [
+    "Global semiconductor shortage expected to extend through Q3",
+    "Major banking institution reports $2B quarterly loss due to cyberattack",
+    "U.S. inflation rises 0.7% amid energy price hikes",
+    "Tech stocks fall sharply amid market volatility",
+    "India sees record-breaking IT job resignations as tech burnout surges"
+  ],
+  "economic_indicators": {
+    "inflation_rate": "0.7%",
+    "unemployment_rate": "5.1%",
+    "usd_index": "97.2",
+    "nasdaq_change": "-2.8%"
+  }
+}
